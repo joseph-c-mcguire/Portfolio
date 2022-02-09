@@ -24,3 +24,6 @@ From taking the first two thirds of years present in our data, within a error-to
 
 These results were then collected in the report in the file above and presented to the program at the end of the summer.
 My team and I then produced 2 posters to present our findinigs at the Intelligence Communities Academic Research Symposium in Washington D.C.
+
+## Personal Projects
+Attached are 2 Jupyter notebooks, one on network theory and some explanations and visualizations, and the other on some techniques used in optimization in machine learning.
