@@ -26,4 +26,4 @@ These results were then collected in the report in the file above and presented 
 My team and I then produced 2 posters to present our findinigs at the Intelligence Communities Academic Research Symposium in Washington D.C.
 
 ## Personal Projects
-Attached are 2 Jupyter notebooks, one on network theory and some explanations and visualizations, and the other on some techniques used in optimization in machine learning.
+Attached are Jupyter notebooks, one on network theory and some explanations and visualizations.
